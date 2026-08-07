@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//OKC Thunder 2026 Playoffs Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OKC Thunder 2026 Playoffs (Feed Ready)
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:8eb5d176-3694-491f-ab34-78980b2afd65@chatgpt
+DTSTAMP:20260418T184830Z
+SUMMARY:OKC Thunder vs Phoenix Suns — West First Round Game 1
+DTSTART;TZID=America/Chicago:20260419T143000
+DTEND;TZID=America/Chicago:20260419T173000
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:2026 NBA Playoffs — West First Round. Phoenix at Oklahoma City. Tipoff 2:30 PM Central / 3:30 PM ET. Broadcast: ABC.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cfcd022d-e04a-45a2-813c-8c4a5dc15118@chatgpt
+DTSTAMP:20260418T184830Z
+SUMMARY:OKC Thunder vs Phoenix Suns — West First Round Game 2
+DTSTART;TZID=America/Chicago:20260422T203000
+DTEND;TZID=America/Chicago:20260422T233000
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:2026 NBA Playoffs — West First Round. Phoenix at Oklahoma City. Tipoff 8:30 PM Central / 9:30 PM ET. Broadcast: ESPN.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:99194406-930b-41d2-aee9-e8587f8c87b3@chatgpt
+DTSTAMP:20260418T184830Z
+SUMMARY:OKC Thunder at Phoenix Suns — West First Round Game 3
+DTSTART;TZID=America/Chicago:20260425T143000
+DTEND;TZID=America/Chicago:20260425T173000
+LOCATION:Phoenix\, AZ
+DESCRIPTION:2026 NBA Playoffs — West First Round. Oklahoma City at Phoenix. Tipoff 2:30 PM Central / 3:30 PM ET. Broadcast: NBC.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ede85c-50a5-492f-b277-126cfb594d50@chatgpt
+DTSTAMP:20260418T184830Z
+SUMMARY:OKC Thunder at Phoenix Suns — West First Round Game 4*
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+LOCATION:Phoenix\, AZ
+DESCRIPTION:2026 NBA Playoffs — West First Round. Oklahoma City at Phoenix. Date is official\; tip time was TBD when this feed was generated.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9a064f89-42f3-4935-a3c9-fd02d2ee7644@chatgpt
+DTSTAMP:20260418T184830Z
+SUMMARY:OKC Thunder vs Phoenix Suns — West First Round Game 5*
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:2026 NBA Playoffs — West First Round. Phoenix at Oklahoma City. Date is official\; tip time was TBD when this feed was generated.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:091bdea7-8bab-465e-874a-ca2132664dd1@chatgpt
+DTSTAMP:20260418T184830Z
+SUMMARY:OKC Thunder at Phoenix Suns — West First Round Game 6*
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+LOCATION:Phoenix\, AZ
+DESCRIPTION:2026 NBA Playoffs — West First Round. Oklahoma City at Phoenix. Date is official\; tip time was TBD when this feed was generated.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e4809b1d-09f3-41f6-a2ed-6529505dc528@chatgpt
+DTSTAMP:20260418T184830Z
+SUMMARY:OKC Thunder vs Phoenix Suns — West First Round Game 7*
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+LOCATION:Paycom Center\, Oklahoma City\, OK
+DESCRIPTION:2026 NBA Playoffs — West First Round. Phoenix at Oklahoma City. Date is official\; tip time was TBD when this feed was generated.
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
